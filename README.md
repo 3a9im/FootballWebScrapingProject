@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project was created as training on how to scrape webpages and analyze football datasets. I scraped data from [FBref](https://fbref.com/en/) on the statistics of Manchester City and Spain player Rodrigo Hernández Cascante "Rodri" to compare two seasons of his career (2022/2023 and 2023/2024), trying to confirm my idea of him playing better in his Ballon d'Or winning season than the treble winning season.
+This project was created as training on how to scrape web pages and analyze football datasets. I scraped data from [FBref](https://fbref.com/en/) on the statistics of Manchester City and Spain player Rodrigo Hernández Cascante "Rodri" to compare two seasons of his career (2022/2023 and 2023/2024), trying to confirm my idea of him playing better in his Ballon d'Or winning season than the treble winning season.
 
 ## The Dataset
 
